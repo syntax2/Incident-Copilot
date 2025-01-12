@@ -12,7 +12,7 @@ setup(
         "numpy==1.26.2",
         "scikit-learn==1.3.2",
         "transformers==4.35.2",
-        "torch==2.1.1",
+        "torch==2.2.0",
         "python-dotenv==1.0.0",
         "pytest==7.4.3",
         "black==23.11.0",
